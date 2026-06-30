@@ -1,51 +1,6 @@
 [
   {
-    "slug": "smartrecruiters-744000134809900",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Ingeniero/a de Sistemas (Scripting) - PRESENCIAL GETAFE",
-    "applyUrl": "",
-    "location": "Getafe, MD, Spain",
-    "remote": "onsite",
-    "level": "unknown",
-    "skills": [
-      "python",
-      "git",
-      "svn",
-      "oracle",
-      "scripting",
-      "system administration",
-      "configuration management"
-    ],
-    "posted": "2026-06-29T14:26:09.570Z"
-  },
-  {
-    "slug": "smartrecruiters-744000134721732",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Alternance - Ingénieur(e) Systèmes et Réseaux - Lille",
-    "applyUrl": "",
-    "location": "Villeneuve-d'Ascq, Hauts-de-France, France",
-    "remote": "hybrid",
-    "level": "intern",
-    "skills": [
-      "python",
-      "linux",
-      "vmware",
-      "esxi",
-      "networking",
-      "firewalls",
-      "virtualization",
-      "scripting",
-      "automation",
-      "windows",
-      "cisco",
-      "juniper"
-    ],
-    "posted": "2026-06-29T08:16:29.246Z"
-  },
-  {
-    "slug": "greenhouse-8501390002",
+    "dedupeKey": "greenhouse:8501390002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "AI Solutions Architect (Pre-sales) - Strategic Accounts",
@@ -72,7 +27,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8455752002",
+    "dedupeKey": "greenhouse:8455752002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Pre-sales Solutions Architect - Healthcare",
@@ -106,7 +61,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-7849147002",
+    "dedupeKey": "greenhouse:7849147002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Pre-sales Solutions Architect - Energy",
@@ -141,7 +96,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "ashby-0cf19dbd-bfa9-425f-a357-e2bd874bb489",
+    "dedupeKey": "ashby:0cf19dbd-bfa9-425f-a357-e2bd874bb489",
     "company": "Cohere",
     "companyDomain": "cohere.com",
     "role": "Data Annotation Specialist, Safety",
@@ -159,7 +114,7 @@
     "posted": "2026-06-26T19:54:08.059Z"
   },
   {
-    "slug": "greenhouse-5723813004",
+    "dedupeKey": "greenhouse:5723813004",
     "company": "Housecall Pro",
     "companyDomain": "housecallpro.com",
     "role": "Senior Software Engineer - Poland",
@@ -179,7 +134,7 @@
     "posted": "2026-06-26T18:38:58.000Z"
   },
   {
-    "slug": "greenhouse-5545086004",
+    "dedupeKey": "greenhouse:5545086004",
     "company": "Housecall Pro",
     "companyDomain": "housecallpro.com",
     "role": "Senior Staff Engineer - Poland",
@@ -210,7 +165,7 @@
     "posted": "2026-06-26T18:38:58.000Z"
   },
   {
-    "slug": "greenhouse-6102764004",
+    "dedupeKey": "greenhouse:6102764004",
     "company": "Housecall Pro",
     "companyDomain": "housecallpro.com",
     "role": "Staff Devops Engineer II (DBOps) - Poland",
@@ -237,7 +192,7 @@
     "posted": "2026-06-26T18:38:58.000Z"
   },
   {
-    "slug": "greenhouse-8030879",
+    "dedupeKey": "greenhouse:8030879",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "On the Ground Specialist (Contractor)",
@@ -258,93 +213,7 @@
     "posted": "2026-06-26T16:40:37.000Z"
   },
   {
-    "slug": "smartrecruiters-6000000001188274",
-    "company": "Canva",
-    "companyDomain": "canva.com",
-    "role": "AI Quality Evaluator - German (12-month contract)",
-    "applyUrl": "",
-    "location": "Berlin, BE, Germany",
-    "remote": "remote",
-    "level": "mid",
-    "skills": [
-      "german",
-      "nlp",
-      "data annotation",
-      "quality assurance",
-      "llm evaluation",
-      "dataset creation",
-      "localization",
-      "cultural appropriateness",
-      "linguistic quality",
-      "english"
-    ],
-    "posted": "2026-06-26T16:00:20.169Z"
-  },
-  {
-    "slug": "smartrecruiters-6000000001188230",
-    "company": "Canva",
-    "companyDomain": "canva.com",
-    "role": "AI Quality Evaluator - French (12-month contract)",
-    "applyUrl": "",
-    "location": "Paris, IDF, France",
-    "remote": "remote",
-    "level": "mid",
-    "skills": [
-      "nlp",
-      "data_annotation",
-      "quality_assurance",
-      "french",
-      "english",
-      "dataset_creation",
-      "localization"
-    ],
-    "posted": "2026-06-26T15:55:37.266Z"
-  },
-  {
-    "slug": "smartrecruiters-6000000001188186",
-    "company": "Canva",
-    "companyDomain": "canva.com",
-    "role": "AI Quality Evaluator - Turkish (12-month contract)",
-    "applyUrl": "",
-    "location": "Istanbul, İstanbul, Turkey",
-    "remote": "onsite",
-    "level": "unknown",
-    "skills": [
-      "turkish",
-      "english",
-      "data_annotation",
-      "quality_evaluation",
-      "nlp",
-      "llm",
-      "cultural_appropriateness",
-      "dataset_creation",
-      "localization"
-    ],
-    "posted": "2026-06-26T15:48:18.176Z"
-  },
-  {
-    "slug": "smartrecruiters-6000000001188142",
-    "company": "Canva",
-    "companyDomain": "canva.com",
-    "role": "AI Quality Evaluator - Arabic (12 month contract)",
-    "applyUrl": "",
-    "location": "Cairo, Cairo Governorate, Egypt",
-    "remote": "remote",
-    "level": "unknown",
-    "skills": [
-      "arabic",
-      "nlp",
-      "data_annotation",
-      "quality_assurance",
-      "cultural_appropriateness",
-      "dataset_creation",
-      "localization",
-      "english"
-    ],
-    "posted": "2026-06-26T15:38:50.860Z"
-  },
-  {
-    "slug": "lever-5fe3efce-2858-41f0-a22c-be876f7ea433",
+    "dedupeKey": "lever:5fe3efce-2858-41f0-a22c-be876f7ea433",
     "company": "Prolific Machines",
     "companyDomain": "prolific-machines.com",
     "role": "Research Associate II, Analytical Chemistry (Contract)",
@@ -367,7 +236,7 @@
     "posted": "2026-06-26T11:27:25.686Z"
   },
   {
-    "slug": "workday-jr-0019536",
+    "dedupeKey": "workday:JR-0019536",
     "company": "ArianeGroup",
     "companyDomain": "ariane.group",
     "role": "CDD - Ingénieur(e) analyse de mission (F/H)",
@@ -388,49 +257,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "smartrecruiters-744000134238689",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Werkstudent Data & Analytics im Public Sektor (m/w/d)",
-    "applyUrl": "",
-    "location": "bundesweit, , Germany",
-    "remote": "hybrid",
-    "level": "intern",
-    "skills": [
-      "sql",
-      "python",
-      "data modeling",
-      "reporting",
-      "dashboarding",
-      "data analysis",
-      "data warehousing",
-      "sap analytics",
-      "big data"
-    ],
-    "posted": "2026-06-25T11:16:11.452Z"
-  },
-  {
-    "slug": "smartrecruiters-744000134222589",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "ALTERNANCE - Développeur/se PLM - Courbevoie",
-    "applyUrl": "",
-    "location": "Courbevoie, , France",
-    "remote": "onsite",
-    "level": "intern",
-    "skills": [
-      "java",
-      "agile",
-      "unit testing",
-      "css",
-      "html",
-      "ux design",
-      "plm"
-    ],
-    "posted": "2026-06-25T09:52:08.081Z"
-  },
-  {
-    "slug": "greenhouse-7976883",
+    "dedupeKey": "greenhouse:7976883",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Implementation Specialist - Caper (Contractor)",
@@ -448,7 +275,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-5821662004",
+    "dedupeKey": "greenhouse:5821662004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
     "role": "Lead Instructor: Software Development",
@@ -473,7 +300,7 @@
     "posted": "2026-06-24T17:55:40.000Z"
   },
   {
-    "slug": "greenhouse-5427890004",
+    "dedupeKey": "greenhouse:5427890004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
     "role": "AI Coach (Gemini, Copilot, ChatGPT, Claude)",
@@ -493,7 +320,7 @@
     "posted": "2026-06-24T17:55:38.000Z"
   },
   {
-    "slug": "greenhouse-5500295004",
+    "dedupeKey": "greenhouse:5500295004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
     "role": "AI Coach (Gemini, Copilot, ChatGPT, Claude)",
@@ -515,7 +342,7 @@
     "posted": "2026-06-24T17:55:38.000Z"
   },
   {
-    "slug": "greenhouse-5459013004",
+    "dedupeKey": "greenhouse:5459013004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
     "role": "Lead Instructor: GenAI ",
@@ -533,7 +360,7 @@
     "posted": "2026-06-24T17:55:38.000Z"
   },
   {
-    "slug": "greenhouse-5799850004",
+    "dedupeKey": "greenhouse:5799850004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
     "role": "Lead Instructor: Machine Learning Data Associate",
@@ -555,7 +382,7 @@
     "posted": "2026-06-24T17:55:38.000Z"
   },
   {
-    "slug": "greenhouse-5802065004",
+    "dedupeKey": "greenhouse:5802065004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
     "role": "Teaching Assistant: Machine Learning Data Associate",
@@ -575,7 +402,7 @@
     "posted": "2026-06-24T17:55:38.000Z"
   },
   {
-    "slug": "ashby-052036dc-ec0e-4af9-8812-08b2bae1e876",
+    "dedupeKey": "ashby:052036dc-ec0e-4af9-8812-08b2bae1e876",
     "company": "Edison Scientific",
     "companyDomain": "edisonscientific.com",
     "role": "DMPK Consultant ",
@@ -598,30 +425,7 @@
     "posted": "2026-06-24T16:00:14.753Z"
   },
   {
-    "slug": "smartrecruiters-744000133955479",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Développeur/se 3DEXPERIENCE - Aix-en-Provence",
-    "applyUrl": "",
-    "location": "Aix-en-Provence, , France",
-    "remote": "hybrid",
-    "level": "mid",
-    "skills": [
-      "java",
-      "javascript",
-      "html",
-      "css",
-      "ux_ui",
-      "devops",
-      "ci_cd",
-      "gitlab",
-      "plm",
-      "3dexperience"
-    ],
-    "posted": "2026-06-24T13:40:56.409Z"
-  },
-  {
-    "slug": "greenhouse-5440151004",
+    "dedupeKey": "greenhouse:5440151004",
     "company": "Array",
     "companyDomain": "array.com",
     "role": "Senior Go Software Engineer",
@@ -647,7 +451,7 @@
     "posted": "2026-06-24T13:29:13.000Z"
   },
   {
-    "slug": "greenhouse-5737236004",
+    "dedupeKey": "greenhouse:5737236004",
     "company": "Array",
     "companyDomain": "array.com",
     "role": "Senior Svelte Software Engineer",
@@ -671,7 +475,7 @@
     "posted": "2026-06-24T13:28:48.000Z"
   },
   {
-    "slug": "greenhouse-5154821004",
+    "dedupeKey": "greenhouse:5154821004",
     "company": "Array",
     "companyDomain": "array.com",
     "role": "Senior Data Analyst",
@@ -688,7 +492,7 @@
     "posted": "2026-06-24T13:26:48.000Z"
   },
   {
-    "slug": "lever-8fe5983b-624f-4d6a-bd62-b3dd697d18ca",
+    "dedupeKey": "lever:8fe5983b-624f-4d6a-bd62-b3dd697d18ca",
     "company": "People.ai",
     "companyDomain": "people.ai",
     "role": "Senior Software Engineer — Data Modeling (Europe)",
@@ -719,7 +523,7 @@
     "posted": "2026-06-24T07:23:43.502Z"
   },
   {
-    "slug": "ashby-bf4d6089-61a0-4e5d-910d-a4f3b96c00e4",
+    "dedupeKey": "ashby:bf4d6089-61a0-4e5d-910d-a4f3b96c00e4",
     "company": "Clutch",
     "companyDomain": "withclutch.com",
     "role": "Senior MLOps Engineer",
@@ -751,28 +555,7 @@
     "posted": "2026-06-23T22:54:14.246Z"
   },
   {
-    "slug": "smartrecruiters-744000133514179",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Gestor/a de la configuración 3DEX - Inglés C1",
-    "applyUrl": "",
-    "location": "Madrid, MD, Spain",
-    "remote": "onsite",
-    "level": "mid",
-    "skills": [
-      "3DEXPERIENCE",
-      "PLM",
-      "PDM",
-      "Configuration Management",
-      "impact analysis",
-      "product lifecycle management",
-      "technical documentation",
-      "English C1"
-    ],
-    "posted": "2026-06-23T06:37:19.969Z"
-  },
-  {
-    "slug": "lever-190c7dc6-6797-41dd-938a-9d63c664b24e",
+    "dedupeKey": "lever:190c7dc6-6797-41dd-938a-9d63c664b24e",
     "company": "Crosslake Technologies",
     "companyDomain": "crosslaketech.com",
     "role": "Full Stack Software Engineer",
@@ -808,51 +591,7 @@
     "posted": "2026-06-19T16:46:51.682Z"
   },
   {
-    "slug": "smartrecruiters-744000133025518",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Chef/fe de projet IT confirmé - Intégration PLM - Aéronautique - Courbevoie",
-    "applyUrl": "",
-    "location": "Courbevoie, , France",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "PLM",
-      "3DEXPERIENCE",
-      "project management",
-      "IT integration",
-      "budget management",
-      "planning",
-      "stakeholder management",
-      "aeronautics",
-      "transformation projects",
-      "agile methodologies"
-    ],
-    "posted": "2026-06-19T09:23:09.046Z"
-  },
-  {
-    "slug": "smartrecruiters-744000133025273",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Développeur/se VPM - PLM 3DEXPERIENCE - IDF",
-    "applyUrl": "",
-    "location": "Courbevoie, , France",
-    "remote": "hybrid",
-    "level": "mid",
-    "skills": [
-      "c++",
-      "object_oriented_programming",
-      "plm",
-      "3dexperience",
-      "erp",
-      "api_development",
-      "software_development",
-      "agile"
-    ],
-    "posted": "2026-06-19T09:22:29.393Z"
-  },
-  {
-    "slug": "greenhouse-7741113003",
+    "dedupeKey": "greenhouse:7741113003",
     "company": "Celonis",
     "companyDomain": "celonis.com",
     "role": "Manager, Services Consulting - (12 month Fixed Term Contract)",
@@ -870,7 +609,7 @@
     "posted": "2026-06-18T14:19:49.000Z"
   },
   {
-    "slug": "lever-6179405b-8ea7-499c-bb9b-8d0eb475485a",
+    "dedupeKey": "lever:6179405b-8ea7-499c-bb9b-8d0eb475485a",
     "company": "Pointclickcare",
     "companyDomain": "pointclickcare.com",
     "role": "Senior Software Engineer (12-month contract)",
@@ -910,7 +649,7 @@
     "posted": "2026-06-18T08:23:44.087Z"
   },
   {
-    "slug": "ashby-9845c80d-95ba-4769-94a7-62408d73d603",
+    "dedupeKey": "ashby:9845c80d-95ba-4769-94a7-62408d73d603",
     "company": "Cohere",
     "companyDomain": "cohere.com",
     "role": "Data Annotation Specialist, Data Science",
@@ -932,7 +671,7 @@
     "posted": "2026-06-17T15:01:13.849Z"
   },
   {
-    "slug": "ashby-5d31ba60-683a-4d59-8059-3f728b772a9e",
+    "dedupeKey": "ashby:5d31ba60-683a-4d59-8059-3f728b772a9e",
     "company": "Cohere",
     "companyDomain": "cohere.com",
     "role": "Data Annotation Specialist, Software Engineering",
@@ -951,64 +690,7 @@
     "posted": "2026-06-17T14:44:10.485Z"
   },
   {
-    "slug": "smartrecruiters-744000132615969",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Desarrollador/a ADA C++ (Sistemas ATM)",
-    "applyUrl": "",
-    "location": "Madrid, MD, Spain",
-    "remote": "onsite",
-    "level": "mid",
-    "skills": [
-      "ada",
-      "c++",
-      "linux",
-      "git",
-      "clearcase",
-      "atm systems",
-      "backend systems",
-      "frontend systems",
-      "system integration",
-      "documentation",
-      "problem solving"
-    ],
-    "posted": "2026-06-17T11:09:49.005Z"
-  },
-  {
-    "slug": "smartrecruiters-744000132597394",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": " Technical Lead - ABAP EWM",
-    "applyUrl": "",
-    "location": "Noida, Uttar Pradesh, , India",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "SAP ABAP",
-      "SAP eWM",
-      "RF screens",
-      "PPF actions",
-      "ITS Mobile",
-      "Warehouse Monitor",
-      "ABAP Objects",
-      "BADI",
-      "Enhancements",
-      "Smart Forms",
-      "Adobe Forms",
-      "IDocs",
-      "BAPIs",
-      "RFCs",
-      "Web Services",
-      "eWM-ECC integration",
-      "OData services",
-      "CDS View",
-      "debugging",
-      "performance tuning"
-    ],
-    "posted": "2026-06-17T09:28:12.809Z"
-  },
-  {
-    "slug": "lever-d358ce6d-86f8-4674-af4c-9de6b89a5d1b",
+    "dedupeKey": "lever:d358ce6d-86f8-4674-af4c-9de6b89a5d1b",
     "company": "Filevine",
     "companyDomain": "filevine.com",
     "role": "Senior ML Ops Engineer",
@@ -1033,7 +715,7 @@
     "posted": "2026-06-17T04:34:29.226Z"
   },
   {
-    "slug": "lever-863a3a41-f46a-4d88-9f87-cb3fe69873b0",
+    "dedupeKey": "lever:863a3a41-f46a-4d88-9f87-cb3fe69873b0",
     "company": "Filevine",
     "companyDomain": "filevine.com",
     "role": "Senior ML Ops Engineer",
@@ -1058,7 +740,7 @@
     "posted": "2026-06-17T04:33:16.466Z"
   },
   {
-    "slug": "lever-21d1bdfc-5f7b-4aa9-934b-e9ec02d5788f",
+    "dedupeKey": "lever:21d1bdfc-5f7b-4aa9-934b-e9ec02d5788f",
     "company": "Netomi",
     "companyDomain": "netomi.com",
     "role": "Prompt Engineer (Contract)",
@@ -1081,7 +763,7 @@
     "posted": "2026-06-16T23:56:38.985Z"
   },
   {
-    "slug": "ashby-62540109-9a7b-4472-9544-6b895453243e",
+    "dedupeKey": "ashby:62540109-9a7b-4472-9544-6b895453243e",
     "company": "Homebase",
     "companyDomain": "joinhomebase.com",
     "role": "Senior Marketing Web Developer (Contract, Hybrid)",
@@ -1105,7 +787,7 @@
     "posted": "2026-06-16T15:55:32.436Z"
   },
   {
-    "slug": "greenhouse-4683462006",
+    "dedupeKey": "greenhouse:4683462006",
     "company": "Mopub",
     "companyDomain": "mopub.com",
     "role": "QA Engineer (12-months Contract)",
@@ -1133,7 +815,7 @@
     "posted": "2026-06-16T08:57:32.000Z"
   },
   {
-    "slug": "greenhouse-7956291",
+    "dedupeKey": "greenhouse:7956291",
     "company": "gogobot",
     "companyDomain": "skyscanner.com",
     "role": "Software Engineering Apprenticeship Programme",
@@ -1148,7 +830,7 @@
     "posted": "2026-06-16T08:50:09.000Z"
   },
   {
-    "slug": "smartrecruiters-744000132196718",
+    "dedupeKey": "smartrecruiters:744000132196718",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Contingent Research Data Analyst, HEOR",
@@ -1179,7 +861,7 @@
     "posted": "2026-06-15T12:57:57.854Z"
   },
   {
-    "slug": "lever-604c406f-3ef1-4d32-9d57-baf04256b8d8",
+    "dedupeKey": "lever:604c406f-3ef1-4d32-9d57-baf04256b8d8",
     "company": "CI&T",
     "companyDomain": "ciandt.com",
     "role": "[29844] - AI Data Engineer - Snowflake Cortex - Contractor",
@@ -1204,33 +886,7 @@
     "posted": "2026-06-15T09:02:14.918Z"
   },
   {
-    "slug": "smartrecruiters-744000132118299",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Desarrollador/a .NET (sector NAVAL)",
-    "applyUrl": "",
-    "location": "Madrid, MD, Spain",
-    "remote": "onsite",
-    "level": "senior",
-    "skills": [
-      "dotnet",
-      "csharp",
-      "sql",
-      "wpf",
-      "mvvm",
-      "design patterns",
-      "entity framework",
-      "automapper",
-      "geckofx",
-      "mvvmvalidation",
-      "relaycommand",
-      "unity",
-      "wpfrichtext"
-    ],
-    "posted": "2026-06-15T06:14:28.489Z"
-  },
-  {
-    "slug": "rippling-1cd8cdd7-0eed-4075-ab59-b00b131de15b",
+    "dedupeKey": "rippling:1cd8cdd7-0eed-4075-ab59-b00b131de15b",
     "company": "Scentbird",
     "companyDomain": "scentbird.com",
     "role": "Principal Platform Architect",
@@ -1264,7 +920,7 @@
     "posted": "2026-06-12T13:19:16.560Z"
   },
   {
-    "slug": "greenhouse-4896443101",
+    "dedupeKey": "greenhouse:4896443101",
     "company": "Prolific",
     "companyDomain": "prolific.com",
     "role": "Lead Applied Scientist",
@@ -1289,7 +945,7 @@
     "posted": "2026-06-12T13:17:42.000Z"
   },
   {
-    "slug": "ashby-3acd56ba-3085-441e-ba75-e6252ce3d566",
+    "dedupeKey": "ashby:3acd56ba-3085-441e-ba75-e6252ce3d566",
     "company": "adaption",
     "companyDomain": "adaptionlabs.ai",
     "role": "Modelling Resident (8-Month Contract)",
@@ -1309,7 +965,7 @@
     "posted": "2026-06-12T00:10:43.033Z"
   },
   {
-    "slug": "ashby-ca674485-066e-4b03-8d24-54cdbc4f457e",
+    "dedupeKey": "ashby:ca674485-066e-4b03-8d24-54cdbc4f457e",
     "company": "Spekit",
     "companyDomain": "spekit.com",
     "role": "Sales Solutions Engineer",
@@ -1327,7 +983,7 @@
     "posted": "2026-06-11T18:25:02.582Z"
   },
   {
-    "slug": "ashby-2ed4d97c-e089-4f99-9aed-a8e0d9121909",
+    "dedupeKey": "ashby:2ed4d97c-e089-4f99-9aed-a8e0d9121909",
     "company": "Clutch",
     "companyDomain": "withclutch.com",
     "role": "Senior Software Engineer - Lending",
@@ -1351,32 +1007,7 @@
     "posted": "2026-06-09T14:56:41.544Z"
   },
   {
-    "slug": "smartrecruiters-744000131046839",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Desarrollador/a Fullstack .NET - Inglés alto",
-    "applyUrl": "",
-    "location": "Madrid, MD, Spain",
-    "remote": "onsite",
-    "level": "senior",
-    "skills": [
-      "c#",
-      ".net core",
-      "asp.net webforms",
-      "visual basic .net",
-      ".net framework",
-      "soap",
-      "rest",
-      "wsdl",
-      "openapi",
-      "html",
-      "css",
-      "javascript"
-    ],
-    "posted": "2026-06-09T06:18:27.774Z"
-  },
-  {
-    "slug": "lever-e3c8c967-68d2-41d0-8ecc-218b88e9ca65",
+    "dedupeKey": "lever:e3c8c967-68d2-41d0-8ecc-218b88e9ca65",
     "company": "Mashgin",
     "companyDomain": "mashgin.com",
     "role": "AI Data Labeler",
@@ -1401,28 +1032,7 @@
     "posted": "2026-06-08T17:04:06.620Z"
   },
   {
-    "slug": "smartrecruiters-744000130241959",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Ingeniero/a de software integrado (Presencial 100% Getafe)",
-    "applyUrl": "",
-    "location": "Getafe, MD, Spain",
-    "remote": "onsite",
-    "level": "unknown",
-    "skills": [
-      "embedded systems",
-      "avionics",
-      "air traffic control",
-      "critical systems development",
-      "real-time video streaming",
-      "integration",
-      "deployment",
-      "software development"
-    ],
-    "posted": "2026-06-04T14:54:13.236Z"
-  },
-  {
-    "slug": "lever-ba1f2937-abf0-4bde-86e9-e302202a6b0e",
+    "dedupeKey": "lever:ba1f2937-abf0-4bde-86e9-e302202a6b0e",
     "company": "Zoox",
     "companyDomain": "zoox.com",
     "role": "Part-Time Student Worker Automation & Behavioral Science Engineer",
@@ -1445,26 +1055,7 @@
     "posted": "2026-06-04T09:21:23.873Z"
   },
   {
-    "slug": "smartrecruiters-744000130154575",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Business Analyst SQL – Banca",
-    "applyUrl": "",
-    "location": "Madrid, MD, Spain",
-    "remote": "onsite",
-    "level": "mid",
-    "skills": [
-      "sql",
-      "business analysis",
-      "banking",
-      "payments",
-      "transfer systems",
-      "project lifecycle management"
-    ],
-    "posted": "2026-06-04T07:13:39.053Z"
-  },
-  {
-    "slug": "lever-49f7075e-b890-4e51-9516-dcaf18abba8f",
+    "dedupeKey": "lever:49f7075e-b890-4e51-9516-dcaf18abba8f",
     "company": "Gojob",
     "companyDomain": "gojob.com",
     "role": "Software Engineer Spécialisé IA H/F - Paris",
@@ -1491,31 +1082,7 @@
     "posted": "2026-06-03T02:31:18.256Z"
   },
   {
-    "slug": "smartrecruiters-744000129808428",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Senior consultant(e) - Transformation digitale - Services Publics - Ile de France",
-    "applyUrl": "",
-    "location": "Courbevoie, IDF, France",
-    "remote": "onsite",
-    "level": "senior",
-    "skills": [
-      "digital transformation",
-      "business process optimization",
-      "change management",
-      "agile methodologies",
-      "data analysis",
-      "predictive modeling",
-      "blockchain",
-      "RPA",
-      "client advisory",
-      "project management",
-      "public sector consulting"
-    ],
-    "posted": "2026-06-02T16:01:08.195Z"
-  },
-  {
-    "slug": "ashby-afff9754-a5fa-44d5-80c7-d968405355ee",
+    "dedupeKey": "ashby:afff9754-a5fa-44d5-80c7-d968405355ee",
     "company": "Limbic",
     "companyDomain": "limbic.ai",
     "role": "Clinical Contractor",
@@ -1531,7 +1098,7 @@
     "posted": "2026-06-02T11:22:40.872Z"
   },
   {
-    "slug": "lever-38e2c197-8a0c-4e8e-9d5b-4b7a24beeff9",
+    "dedupeKey": "lever:38e2c197-8a0c-4e8e-9d5b-4b7a24beeff9",
     "company": "Equativ",
     "companyDomain": "equativ.com",
     "role": "AI Engineer [Feelance]",
@@ -1562,36 +1129,7 @@
     "posted": "2026-05-30T14:10:18.799Z"
   },
   {
-    "slug": "smartrecruiters-744000128788243",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "IT Systems Engineer (Contractor)",
-    "applyUrl": "",
-    "location": "Ottawa, ON, Canada",
-    "remote": "onsite",
-    "level": "mid",
-    "skills": [
-      "linux administration",
-      "networking fundamentals",
-      "virtualization",
-      "bash scripting",
-      "python scripting",
-      "ansible",
-      "cybersecurity",
-      "rhel",
-      "ubuntu",
-      "debian",
-      "vmware",
-      "kvm",
-      "proxmox",
-      "vpn",
-      "firewalls",
-      "packet capture"
-    ],
-    "posted": "2026-05-27T19:14:52.245Z"
-  },
-  {
-    "slug": "ashby-1e3a9711-d13c-4b79-8599-34dfb3133621",
+    "dedupeKey": "ashby:1e3a9711-d13c-4b79-8599-34dfb3133621",
     "company": "Handshake",
     "companyDomain": "joinhandshake.com",
     "role": "AI Red Teamer, LLM Generalist",
@@ -1608,7 +1146,7 @@
     "posted": "2026-05-27T17:56:51.443Z"
   },
   {
-    "slug": "lever-68e9af2e-3593-4b35-9841-1a3ba04f6fee",
+    "dedupeKey": "lever:68e9af2e-3593-4b35-9841-1a3ba04f6fee",
     "company": "Gojob",
     "companyDomain": "gojob.com",
     "role": "Senior / Staff Software Engineer H/F",
@@ -1641,7 +1179,7 @@
     "posted": "2026-05-26T09:20:31.184Z"
   },
   {
-    "slug": "lever-183c3782-3b25-45cc-96a7-295746d08b75",
+    "dedupeKey": "lever:183c3782-3b25-45cc-96a7-295746d08b75",
     "company": "Deputy",
     "companyDomain": "deputy.com",
     "role": "Software Engineer 3: Backend - 12 Month Fixed Term Contract",
@@ -1689,7 +1227,7 @@
     "posted": "2026-05-25T19:23:24.644Z"
   },
   {
-    "slug": "greenhouse-4087890009",
+    "dedupeKey": "greenhouse:4087890009",
     "company": "RadixArk",
     "companyDomain": "radixark.ai",
     "role": "Member of Technical Staff — TPU Systems (JAX / XLA / PALLAS)",
@@ -1712,7 +1250,7 @@
     "posted": "2026-05-23T01:07:55.000Z"
   },
   {
-    "slug": "greenhouse-4236243009",
+    "dedupeKey": "greenhouse:4236243009",
     "company": "RadixArk",
     "companyDomain": "radixark.ai",
     "role": "Technical Program Manager",
@@ -1733,7 +1271,7 @@
     "posted": "2026-05-23T01:05:13.000Z"
   },
   {
-    "slug": "ashby-0cd52990-5e4d-44c4-975e-f8f8867b4518",
+    "dedupeKey": "ashby:0cd52990-5e4d-44c4-975e-f8f8867b4518",
     "company": "Clutch",
     "companyDomain": "withclutch.com",
     "role": "Senior Software Engineer",
@@ -1754,7 +1292,7 @@
     "posted": "2026-05-21T18:50:26.749Z"
   },
   {
-    "slug": "lever-e6aeeac7-f809-4679-b72c-effa5a39223d",
+    "dedupeKey": "lever:e6aeeac7-f809-4679-b72c-effa5a39223d",
     "company": "Zoox",
     "companyDomain": "zoox.com",
     "role": "Part-Time Student Worker AI & Automation: Supply Chain, Quality & Reliability",
@@ -1780,7 +1318,7 @@
     "posted": "2026-05-21T18:04:17.757Z"
   },
   {
-    "slug": "lever-c4c977bd-6509-416d-8d47-f70512305b4f",
+    "dedupeKey": "lever:c4c977bd-6509-416d-8d47-f70512305b4f",
     "company": "Sophos",
     "companyDomain": "sophos.com",
     "role": "Security Solutions Consultant (via 3rd party)",
@@ -1817,7 +1355,7 @@
     "posted": "2026-05-21T06:06:09.461Z"
   },
   {
-    "slug": "ashby-f418b71d-d2e1-49e3-9a54-b41a2c5f5e97",
+    "dedupeKey": "ashby:f418b71d-d2e1-49e3-9a54-b41a2c5f5e97",
     "company": "Saronic Technologies",
     "companyDomain": "saronic.com",
     "role": "Data Annotation Specialist",
@@ -1836,50 +1374,7 @@
     "posted": "2026-05-20T21:38:26.058Z"
   },
   {
-    "slug": "smartrecruiters-744000127434980",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Analista Desarrollador/a BI",
-    "applyUrl": "",
-    "location": "Pozuelo de Alarcón, MD, Spain",
-    "remote": "hybrid",
-    "level": "mid",
-    "skills": [
-      "sql",
-      "etl",
-      "data_warehouse",
-      "business_intelligence",
-      "dashboarding",
-      "data_analysis"
-    ],
-    "posted": "2026-05-20T13:24:05.918Z"
-  },
-  {
-    "slug": "smartrecruiters-744000127363109",
-    "company": "Artelia",
-    "companyDomain": "arteliagroup.com",
-    "role": "Développeur / Développeuse Automaticien",
-    "applyUrl": "",
-    "location": "Rouen, Normandy, France",
-    "remote": "onsite",
-    "level": "mid",
-    "skills": [
-      "PLC programming",
-      "Schneider Electric",
-      "Siemens",
-      "SCADA",
-      "HMI",
-      "industrial automation",
-      "ISO 9001",
-      "ISO 45001",
-      "MASE",
-      "AutoCAD",
-      "Plant 3D"
-    ],
-    "posted": "2026-05-20T06:58:36.274Z"
-  },
-  {
-    "slug": "ashby-0506fb93-d9c1-47f1-9c1d-d0d93596e2e2",
+    "dedupeKey": "ashby:0506fb93-d9c1-47f1-9c1d-d0d93596e2e2",
     "company": "ClassDojo",
     "companyDomain": "classdojo.com",
     "role": "School Partnerships Specialist (Contractor — Field-Based)",
@@ -1898,7 +1393,7 @@
     "posted": "2026-05-19T22:44:47.836Z"
   },
   {
-    "slug": "greenhouse-4871274101",
+    "dedupeKey": "greenhouse:4871274101",
     "company": "ABBYY",
     "companyDomain": "abbyy.com",
     "role": "OCR/IDP Data Labelling & Validation Specialist - Contract - ",
@@ -1935,7 +1430,7 @@
     "posted": "2026-05-19T22:41:52.000Z"
   },
   {
-    "slug": "ashby-c0d60fa5-2632-4db7-8194-813fe74f1801",
+    "dedupeKey": "ashby:c0d60fa5-2632-4db7-8194-813fe74f1801",
     "company": "ClassDojo",
     "companyDomain": "classdojo.com",
     "role": "Technical Implementation Specialist (Contract, Remote)",
@@ -1957,7 +1452,7 @@
     "posted": "2026-05-19T19:47:10.743Z"
   },
   {
-    "slug": "ashby-080a2b88-f724-4585-8d16-2d4839a1d563",
+    "dedupeKey": "ashby:080a2b88-f724-4585-8d16-2d4839a1d563",
     "company": "Dyna Robotics",
     "companyDomain": "dynarobotics.ai",
     "role": "Data Annotation Specialist ",
@@ -1974,7 +1469,7 @@
     "posted": "2026-05-15T21:58:46.801Z"
   },
   {
-    "slug": "ashby-eea6223f-5a72-4b62-a566-3370f0bc5de6",
+    "dedupeKey": "ashby:eea6223f-5a72-4b62-a566-3370f0bc5de6",
     "company": "Clutch",
     "companyDomain": "withclutch.com",
     "role": "Director of Platform Engineering",
@@ -2007,7 +1502,7 @@
     "posted": "2026-05-15T15:14:41.627Z"
   },
   {
-    "slug": "greenhouse-8422027002",
+    "dedupeKey": "greenhouse:8422027002",
     "company": "Wayve",
     "companyDomain": "wayve.ai",
     "role": "Software Integration Engineer (6 months Contract) ",
@@ -2054,7 +1549,7 @@
     "posted": "2026-05-14T15:23:01.000Z"
   },
   {
-    "slug": "ashby-579df46b-b3cc-4532-a823-8a18f732b0b7",
+    "dedupeKey": "ashby:579df46b-b3cc-4532-a823-8a18f732b0b7",
     "company": "Lendable",
     "companyDomain": "lendable.co.uk",
     "role": "Senior AI Engineer (Contract)",
@@ -2082,7 +1577,7 @@
     "posted": "2026-05-14T09:31:56.198Z"
   },
   {
-    "slug": "bamboohr-378",
+    "dedupeKey": "bamboohr:378",
     "company": "Kandou",
     "companyDomain": "kandou.com",
     "role": "Firmware Contractors, 6 months contract CH",
@@ -2119,7 +1614,7 @@
     "posted": "2026-05-13T18:30:00.000Z"
   },
   {
-    "slug": "lever-37cb2f30-aff6-44cf-9061-6bb05dddac24",
+    "dedupeKey": "lever:37cb2f30-aff6-44cf-9061-6bb05dddac24",
     "company": "Gojob",
     "companyDomain": "gojob.com",
     "role": "AI Senior Solution Consultant / CSM H/F",
@@ -2149,41 +1644,7 @@
     "posted": "2026-05-13T10:41:55.565Z"
   },
   {
-    "slug": "smartrecruiters-744000125818586",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Alternance - Développeur(se) Fullstack – Services Financiers – Niort",
-    "applyUrl": "",
-    "location": "Bessines, Nouvelle-Aquitaine, France",
-    "remote": "hybrid",
-    "level": "intern",
-    "skills": [
-      "java",
-      "react",
-      "nodejs",
-      "express",
-      "nestjs",
-      "rest",
-      "json",
-      "postgresql",
-      "sql server",
-      "git",
-      "gitlab",
-      "azure devops",
-      "ci/cd",
-      "jira",
-      "postman",
-      "agile",
-      "scrum",
-      "clean code",
-      "api design",
-      "backend development",
-      "frontend development"
-    ],
-    "posted": "2026-05-11T11:54:47.308Z"
-  },
-  {
-    "slug": "breezy-3d46ba4ca7a1",
+    "dedupeKey": "breezy:3d46ba4ca7a1",
     "company": "Nucleus Teq",
     "companyDomain": "nucleusteq.com",
     "role": "Data Engineer + Gen AI (In-Person @ NYC)",
@@ -2227,7 +1688,7 @@
     "posted": "2026-05-08T18:27:58.496Z"
   },
   {
-    "slug": "ashby-9700188b-be5d-4de1-abea-4f8397f596c8",
+    "dedupeKey": "ashby:9700188b-be5d-4de1-abea-4f8397f596c8",
     "company": "Semgrep",
     "companyDomain": "semgrep.dev",
     "role": "Senior Software Engineer, Growth",
@@ -2247,7 +1708,7 @@
     "posted": "2026-05-08T17:31:00.479Z"
   },
   {
-    "slug": "workable-a387a03720",
+    "dedupeKey": "workable:A387A03720",
     "company": "DigitalGenius",
     "companyDomain": "digitalgenius.com",
     "role": "Solutions Engineer",
@@ -2282,56 +1743,7 @@
     "posted": "2026-05-08T00:00:00.000Z"
   },
   {
-    "slug": "smartrecruiters-744000125105059",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Werkstudent SAP Data & Analytics (m/w/d)",
-    "applyUrl": "",
-    "location": "bundesweit, , Germany",
-    "remote": "hybrid",
-    "level": "intern",
-    "skills": [
-      "SAP Analytics Cloud",
-      "SAP Datasphere",
-      "Databricks",
-      "SAP BTP",
-      "SQL",
-      "Excel",
-      "Data Warehousing",
-      "Data Modeling",
-      "Reporting",
-      "Data Pipelines"
-    ],
-    "posted": "2026-05-07T10:58:39.418Z"
-  },
-  {
-    "slug": "smartrecruiters-744000125041029",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Werkstudent Java Entwicklung (m/w/d)",
-    "applyUrl": "",
-    "location": "Leipzig, , Germany",
-    "remote": "hybrid",
-    "level": "intern",
-    "skills": [
-      "java",
-      "sql",
-      "spring boot",
-      "spring data",
-      "rest",
-      "unit testing",
-      "cloud",
-      "docker",
-      "kubernetes",
-      "git",
-      "agile",
-      "ai tools",
-      "agentic coding"
-    ],
-    "posted": "2026-05-07T06:34:01.674Z"
-  },
-  {
-    "slug": "ashby-28cd1d4f-b5ef-45a1-8bc7-230e4da52b8f",
+    "dedupeKey": "ashby:28cd1d4f-b5ef-45a1-8bc7-230e4da52b8f",
     "company": "Owkin",
     "companyDomain": "owkin.com",
     "role": "Lab Technician - CDD",
@@ -2356,7 +1768,7 @@
     "posted": "2026-05-06T08:12:29.431Z"
   },
   {
-    "slug": "ashby-23c35d20-e31e-42bb-a4dc-88a8e063061a",
+    "dedupeKey": "ashby:23c35d20-e31e-42bb-a4dc-88a8e063061a",
     "company": "Cohere",
     "companyDomain": "cohere.com",
     "role": "Data Annotation Specialist, Arabic Language Najdi/Hijazi Dialect",
@@ -2372,7 +1784,7 @@
     "posted": "2026-05-05T20:58:41.917Z"
   },
   {
-    "slug": "ashby-5e8c8cc4-4349-4574-a8c6-b17687014d76",
+    "dedupeKey": "ashby:5e8c8cc4-4349-4574-a8c6-b17687014d76",
     "company": "Cohere",
     "companyDomain": "cohere.com",
     "role": "Data Annotation Specialist, Japanese",
@@ -2391,7 +1803,7 @@
     "posted": "2026-05-05T20:22:59.073Z"
   },
   {
-    "slug": "greenhouse-8535685002",
+    "dedupeKey": "greenhouse:8535685002",
     "company": "Appnovation",
     "companyDomain": "appnovation.com",
     "role": "Associate QA - Contractor",
@@ -2425,7 +1837,7 @@
     "posted": "2026-05-05T16:13:32.000Z"
   },
   {
-    "slug": "lever-690faaf3-657e-44da-9c50-5df16a05a60e",
+    "dedupeKey": "lever:690faaf3-657e-44da-9c50-5df16a05a60e",
     "company": "IDT",
     "companyDomain": "idt.net",
     "role": "Senior Golang  Software Engineer",
@@ -2453,7 +1865,7 @@
     "posted": "2026-05-04T08:03:57.201Z"
   },
   {
-    "slug": "ashby-4c0519df-4b6b-40bd-96bf-654604d415a3",
+    "dedupeKey": "ashby:4c0519df-4b6b-40bd-96bf-654604d415a3",
     "company": "Known",
     "companyDomain": "knowndating.com",
     "role": "QA Engineer, Mobile",
@@ -2469,7 +1881,7 @@
     "posted": "2026-04-29T21:38:49.045Z"
   },
   {
-    "slug": "ashby-edf8224c-6d6d-44d4-b126-368f115b6e2b",
+    "dedupeKey": "ashby:edf8224c-6d6d-44d4-b126-368f115b6e2b",
     "company": "Clutch",
     "companyDomain": "withclutch.com",
     "role": "Implementation Engineer - Brazil",
@@ -2492,7 +1904,7 @@
     "posted": "2026-04-29T21:26:23.906Z"
   },
   {
-    "slug": "ashby-0ef0a9f8-33ac-4360-a833-f8ce8e108a31",
+    "dedupeKey": "ashby:0ef0a9f8-33ac-4360-a833-f8ce8e108a31",
     "company": "Cohere",
     "companyDomain": "cohere.com",
     "role": "Data Annotation Specialist, Engineering (civil, mechanical, electrical, chemical)",
@@ -2507,7 +1919,7 @@
     "posted": "2026-04-28T20:14:37.403Z"
   },
   {
-    "slug": "ashby-b02e76ac-9d70-41ca-9769-0e073c44976e",
+    "dedupeKey": "ashby:b02e76ac-9d70-41ca-9769-0e073c44976e",
     "company": "Playbook",
     "companyDomain": "playbookapp.io",
     "role": "Senior Fullstack Engineer (ReactJS / Node.js)",
@@ -2528,34 +1940,7 @@
     "posted": "2026-04-28T06:39:45.128Z"
   },
   {
-    "slug": "smartrecruiters-744000121677367",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Devops Technical Lead",
-    "applyUrl": "",
-    "location": "Bengaluru, Karnataka, , India",
-    "remote": "unknown",
-    "level": "senior",
-    "skills": [
-      "devops",
-      "openshift",
-      "jenkins",
-      "cicd",
-      "helm",
-      "github",
-      "sonarqube",
-      "checkmarx",
-      "secrets management",
-      "sre",
-      "environment management",
-      "deployment automation",
-      "access management",
-      "service accounts"
-    ],
-    "posted": "2026-04-20T04:45:00.160Z"
-  },
-  {
-    "slug": "breezy-08475cfe4fd7",
+    "dedupeKey": "breezy:08475cfe4fd7",
     "company": "Bear Robotics",
     "companyDomain": "bearrobotics.ai",
     "role": "Software Engineer Intern",
@@ -2584,7 +1969,7 @@
     "posted": "2026-04-07T00:09:32.689Z"
   },
   {
-    "slug": "lever-9c15705d-8aff-45fb-b845-ac50ae4789a4",
+    "dedupeKey": "lever:9c15705d-8aff-45fb-b845-ac50ae4789a4",
     "company": "Lightcast",
     "companyDomain": "lightcast.io",
     "role": "Data Analyst (Polish)",
@@ -2606,7 +1991,7 @@
     "posted": "2026-04-03T15:00:31.787Z"
   },
   {
-    "slug": "ashby-7ee2585c-2aab-421a-aff3-29a85f83bd15",
+    "dedupeKey": "ashby:7ee2585c-2aab-421a-aff3-29a85f83bd15",
     "company": "Handshake",
     "companyDomain": "joinhandshake.com",
     "role": "Geophysicist - AI Trainer ",
