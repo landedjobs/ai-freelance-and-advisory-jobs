@@ -4,7 +4,7 @@
 ![Roles](https://img.shields.io/badge/125%20live%20roles-ff5b29) ![Updated](https://img.shields.io/badge/updated-2026.07.01-00A86B) [![Stars](https://img.shields.io/github/stars/landedjobs/ai-freelance-and-advisory-jobs?style=social)](https://github.com/landedjobs/ai-freelance-and-advisory-jobs)
 
 > An open, **auto-updated** list of **125** Freelance / Advisory AI roles at AI-native companies — refreshed every few days (updated 2026-07-01).
-> Curated by [Landed](https://landed.jobs) — scout roles, get **referred**, prep, and land the job.
+> Curated by [Landed](https://landed.jobs) — fresh matched roles daily, agent-drafted application answers, and mock-interview prep.
 
 ⭐ **Star this repo** to keep this list handy.
 
@@ -188,7 +188,7 @@ Fractional, contract, and advisory **AI roles** for builders who want flexible, 
 
 ## How to actually land one
 
-These roles usually go to people who get **referred**. With Landed you can scout every opening, find a connection at the company and auto-draft a referral message, prep with company-specific mock interviews, and track every application.
+Fewer, better applications beat the spray. Landed brings you matched roles daily, drafts your answers to each application's questions, and preps you with courses and voice mock interviews.
 
 **[Get started free → https://landed.jobs](https://landed.jobs)**
 
