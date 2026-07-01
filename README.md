@@ -1,124 +1,204 @@
+<a name="top"></a>
 # Freelance, Fractional & Advisory AI Roles 🚀
 
-> An open, **auto-updated** list of Freelance / Advisory AI roles. Updated 2026-07-01 · **79 live roles**.
-> Curated by [Landed](https://landed.jobs) — scout, get **referred**, prep, and land AI-native jobs.
+![Roles](https://img.shields.io/badge/125%20live%20roles-ff5b29) ![Updated](https://img.shields.io/badge/updated-2026.07.01-00A86B) [![Stars](https://img.shields.io/github/stars/landedjobs/ai-freelance-and-advisory-jobs?style=social)](https://github.com/landedjobs/ai-freelance-and-advisory-jobs)
 
-⭐ **Star this repo** to track new Freelance / Advisory AI roles — it refreshes regularly.
+> An open, **auto-updated** list of **125** Freelance / Advisory AI roles at AI-native companies — refreshed every few days (updated 2026-07-01).
+> Curated by [Landed](https://landed.jobs) — scout roles, get **referred**, prep, and land the job.
+
+⭐ **Star this repo** to keep this list handy.
+
+**Legend:** 🌐 Remote · Level = seniority · Top skills extracted from each posting · Posted = age · the **Apply** button opens the role.
 
 ---
 
-## What is a Freelance / Advisory AI? (60-second version)
+## What is a Freelance / Advisory AI?
 
 Fractional, contract, and advisory **AI roles** for builders who want flexible, high-leverage work. An under-served, fast-moving list.
 
 ---
 
-## Live Freelance / Advisory AI roles
+## Jump to
 
-| Company | Role | Location | Type | Posted |
-|---|---|---|---|---|
-| **Databricks** | [AI Solutions Architect (Pre-sales) - Strategic Accounts](#) | Amsterdam, Netherlands | Full-time | 2026-06-27T00:17:35.000Z |
-| **Databricks** | [Pre-sales Solutions Architect - Healthcare](#) | Amsterdam, Netherlands | Full-time | 2026-06-27T00:17:34.000Z |
-| **Databricks** | [Pre-sales Solutions Architect - Energy](#) | Amsterdam, Netherlands | Full-time | 2026-06-27T00:17:28.000Z |
-| **Cohere** | [Data Annotation Specialist, Safety](#) | Canada | Full-time | 2026-06-26T19:54:08.059Z |
-| **Housecall Pro** | [Senior Software Engineer - Poland](#) | Poland | Full-time | 2026-06-26T18:38:58.000Z |
-| **Housecall Pro** | [Senior Staff Engineer - Poland](#) | Poland | Full-time | 2026-06-26T18:38:58.000Z |
-| **Housecall Pro** | [Staff Devops Engineer II (DBOps) - Poland](#) | Poland | Full-time | 2026-06-26T18:38:58.000Z |
-| **Instacart** | [On the Ground Specialist (Contractor)](#) | Dover, New Jersey | Full-time | 2026-06-26T16:40:37.000Z |
-| **Prolific Machines** | [Research Associate II, Analytical Chemistry (Contract)](#) | Emeryville, California | Full-time | 2026-06-26T11:27:25.686Z |
-| **ArianeGroup** | [CDD - Ingénieur(e) analyse de mission (F/H)](#) | Les Mureaux | Full-time | 2026-06-26T00:00:00.000Z |
-| **Instacart** | [Implementation Specialist - Caper (Contractor)](#) | Allentown, PA; Harrisburg, PA; Scranton/Wilkes-Barre, PA; Selinsgrove, PA | Full-time | 2026-06-24T20:24:24.000Z |
-| **Correlation One** | [Lead Instructor: Software Development](#) | Remote: ANZ | Full-time | 2026-06-24T17:55:40.000Z |
-| **Correlation One** | [AI Coach (Gemini, Copilot, ChatGPT, Claude)](#) | Remote: NAMER (US, Canada) | Full-time | 2026-06-24T17:55:38.000Z |
-| **Correlation One** | [AI Coach (Gemini, Copilot, ChatGPT, Claude)](#) | Remote: EMEA | Full-time | 2026-06-24T17:55:38.000Z |
-| **Correlation One** | [Lead Instructor: GenAI ](#) | Remote | Full-time | 2026-06-24T17:55:38.000Z |
-| **Correlation One** | [Lead Instructor: Machine Learning Data Associate](#) | Remote: EMEA | Full-time | 2026-06-24T17:55:38.000Z |
-| **Correlation One** | [Teaching Assistant: Machine Learning Data Associate](#) | Remote: EMEA | Full-time | 2026-06-24T17:55:38.000Z |
-| **Edison Scientific** | [DMPK Consultant ](#) | Remote available (U.S. Only) | Full-time | 2026-06-24T16:00:14.753Z |
-| **Array** | [Senior Go Software Engineer](#) | Chicago, IL (Remote) | Full-time | 2026-06-24T13:29:13.000Z |
-| **Array** | [Senior Svelte Software Engineer](#) | United States OR Canada | Full-time | 2026-06-24T13:28:48.000Z |
-| **Array** | [Senior Data Analyst](#) | Remote - USA or Canada  | Full-time | 2026-06-24T13:26:48.000Z |
-| **People.ai** | [Senior Software Engineer — Data Modeling (Europe)](#) | Poland | Full-time | 2026-06-24T07:23:43.502Z |
-| **Clutch** | [Senior MLOps Engineer](#) | Brazil | Full-time | 2026-06-23T22:54:14.246Z |
-| **Crosslake Technologies** | [Full Stack Software Engineer](#) | Remote (US) | Full-time | 2026-06-19T16:46:51.682Z |
-| **Celonis** | [Manager, Services Consulting - (12 month Fixed Term Contract)](#) | Munich, Germany | Full-time | 2026-06-18T14:19:49.000Z |
-| **Pointclickcare** | [Senior Software Engineer (12-month contract)](#) | Mississauga | Full-time | 2026-06-18T08:23:44.087Z |
-| **Cohere** | [Data Annotation Specialist, Data Science](#) | Canada | Full-time | 2026-06-17T15:01:13.849Z |
-| **Cohere** | [Data Annotation Specialist, Software Engineering](#) | Canada | Full-time | 2026-06-17T14:44:10.485Z |
-| **Filevine** | [Senior ML Ops Engineer](#) | Prague | Full-time | 2026-06-17T04:34:29.226Z |
-| **Filevine** | [Senior ML Ops Engineer](#) | Bratislava | Full-time | 2026-06-17T04:33:16.466Z |
-| **Netomi** | [Prompt Engineer (Contract)](#) | Gurugram | Full-time | 2026-06-16T23:56:38.985Z |
-| **Homebase** | [Senior Marketing Web Developer (Contract, Hybrid)](#) | Toronto | Full-time | 2026-06-16T15:55:32.436Z |
-| **Mopub** | [QA Engineer (12-months Contract)](#) | Singapore | Full-time | 2026-06-16T08:57:32.000Z |
-| **gogobot** | [Software Engineering Apprenticeship Programme](#) | Glasgow | Full-time | 2026-06-16T08:50:09.000Z |
-| **Intuitive** | [Contingent Research Data Analyst, HEOR](#) | Taipei, TAIWAN, tw | Full-time | 2026-06-15T12:57:57.854Z |
-| **CI&T** | [[29844] - AI Data Engineer - Snowflake Cortex - Contractor](#) | London | Full-time | 2026-06-15T09:02:14.918Z |
-| **Scentbird** | [Principal Platform Architect](#) | European Economic Area | Full-time | 2026-06-12T13:19:16.560Z |
-| **Prolific** | [Lead Applied Scientist](#) | London | Full-time | 2026-06-12T13:17:42.000Z |
-| **adaption** | [Modelling Resident (8-Month Contract)](#) | Global Remote | Full-time | 2026-06-12T00:10:43.033Z |
-| **Spekit** | [Sales Solutions Engineer](#) | Mexico | Full-time | 2026-06-11T18:25:02.582Z |
-| **Clutch** | [Senior Software Engineer - Lending](#) | Brazil | Full-time | 2026-06-09T14:56:41.544Z |
-| **Mashgin** | [AI Data Labeler](#) | Remote | Full-time | 2026-06-08T17:04:06.620Z |
-| **Zoox** | [Part-Time Student Worker Automation & Behavioral Science Engineer](#) | Foster City, CA | Full-time | 2026-06-04T09:21:23.873Z |
-| **Gojob** | [Software Engineer Spécialisé IA H/F - Paris](#) | Paris | Full-time | 2026-06-03T02:31:18.256Z |
-| **Limbic** | [Clinical Contractor](#) | United States | Full-time | 2026-06-02T11:22:40.872Z |
-| **Equativ** | [AI Engineer [Feelance]](#) | Paris | Full-time | 2026-05-30T14:10:18.799Z |
-| **Handshake** | [AI Red Teamer, LLM Generalist](#) | Seattle, WA | Full-time | 2026-05-27T17:56:51.443Z |
-| **Gojob** | [Senior / Staff Software Engineer H/F](#) | Aix-en-Provence | Full-time | 2026-05-26T09:20:31.184Z |
-| **Deputy** | [Software Engineer 3: Backend - 12 Month Fixed Term Contract](#) | Sydney | Full-time | 2026-05-25T19:23:24.644Z |
-| **RadixArk** | [Member of Technical Staff — TPU Systems (JAX / XLA / PALLAS)](#) | Palo Alto, CA | Full-time | 2026-05-23T01:07:55.000Z |
-| **RadixArk** | [Technical Program Manager](#) | Palo Alto, CA | Full-time | 2026-05-23T01:05:13.000Z |
-| **Clutch** | [Senior Software Engineer](#) | Brazil | Full-time | 2026-05-21T18:50:26.749Z |
-| **Zoox** | [Part-Time Student Worker AI & Automation: Supply Chain, Quality & Reliability](#) | Foster City, CA | Full-time | 2026-05-21T18:04:17.757Z |
-| **Sophos** | [Security Solutions Consultant (via 3rd party)](#) | Portugal | Full-time | 2026-05-21T06:06:09.461Z |
-| **Saronic Technologies** | [Data Annotation Specialist](#) | Austin, TX | Full-time | 2026-05-20T21:38:26.058Z |
-| **ClassDojo** | [School Partnerships Specialist (Contractor — Field-Based)](#) | Remote | Full-time | 2026-05-19T22:44:47.836Z |
-| **ABBYY** | [OCR/IDP Data Labelling & Validation Specialist - Contract - ](#) | Bangalore, India (Hybrid) | Full-time | 2026-05-19T22:41:52.000Z |
-| **ClassDojo** | [Technical Implementation Specialist (Contract, Remote)](#) | Remote | Full-time | 2026-05-19T19:47:10.743Z |
-| **Dyna Robotics** | [Data Annotation Specialist ](#) | Redwood City, CA | Full-time | 2026-05-15T21:58:46.801Z |
-| **Clutch** | [Director of Platform Engineering](#) | Brazil | Full-time | 2026-05-15T15:14:41.627Z |
-| **Wayve** | [Software Integration Engineer (6 months Contract) ](#) | Detroit | Full-time | 2026-05-14T15:23:01.000Z |
-| **Lendable** | [Senior AI Engineer (Contract)](#) | London | Full-time | 2026-05-14T09:31:56.198Z |
-| **Kandou** | [Firmware Contractors, 6 months contract CH](#) | Saint-Sulpice, Switzerland | Full-time | 2026-05-13T18:30:00.000Z |
-| **Gojob** | [AI Senior Solution Consultant / CSM H/F](#) | Paris | Full-time | 2026-05-13T10:41:55.565Z |
-| **Nucleus Teq** | [Data Engineer + Gen AI (In-Person @ NYC)](#) | NYC, NY | Full-time | 2026-05-08T18:27:58.496Z |
-| **Semgrep** | [Senior Software Engineer, Growth](#) | San Francisco, Boston, New York, Denver | Full-time | 2026-05-08T17:31:00.479Z |
-| **DigitalGenius** | [Solutions Engineer](#) | Croatia | Full-time | 2026-05-08T00:00:00.000Z |
-| **Owkin** | [Lab Technician - CDD](#) | Paris  | Full-time | 2026-05-06T08:12:29.431Z |
-| **Cohere** | [Data Annotation Specialist, Arabic Language Najdi/Hijazi Dialect](#) | Canada | Full-time | 2026-05-05T20:58:41.917Z |
-| **Cohere** | [Data Annotation Specialist, Japanese](#) | Canada | Full-time | 2026-05-05T20:22:59.073Z |
-| **Appnovation** | [Associate QA - Contractor](#) | Toronto | Full-time | 2026-05-05T16:13:32.000Z |
-| **IDT** | [Senior Golang  Software Engineer](#) | Minsk | Full-time | 2026-05-04T08:03:57.201Z |
-| **Known** | [QA Engineer, Mobile](#) | San Francisco, CA | Full-time | 2026-04-29T21:38:49.045Z |
-| **Clutch** | [Implementation Engineer - Brazil](#) | Brazil | Full-time | 2026-04-29T21:26:23.906Z |
-| **Cohere** | [Data Annotation Specialist, Engineering (civil, mechanical, electrical, chemical)](#) | Canada | Full-time | 2026-04-28T20:14:37.403Z |
-| **Playbook** | [Senior Fullstack Engineer (ReactJS / Node.js)](#) | Poland (Remote) | Full-time | 2026-04-28T06:39:45.128Z |
-| **Bear Robotics** | [Software Engineer Intern](#) | Seoul, KR | Full-time | 2026-04-07T00:09:32.689Z |
-| **Lightcast** | [Data Analyst (Polish)](#) | Remote - Poland | Full-time | 2026-04-03T15:00:31.787Z |
-| **Handshake** | [Geophysicist - AI Trainer ](#) | Remote (USA) | Full-time | 2026-04-02T17:27:49.638Z |
+- [🧠 Senior & Staff+](#senior) · **60**
+- [⚙️ Mid-level](#mid) · **54**
+- [🌱 Junior & New Grad](#junior) · **6**
+- [🎓 Internships](#intern) · **5**
 
-> A sample of what's live. **[See every Freelance / Advisory AI role + 1-click tracking on Landed →](https://landed.jobs)**
+---
+
+<a name="senior"></a>
+## 🧠 Senior & Staff+ · 60
+
+| Company | Role | Location | Level | Top skills | Posted | Apply |
+|---|---|---|---|---|---|---|
+| **[Yassir](https://yassir.com)** | Staff Back-End Engineer (Node.JS) - Financial Services | Cairo, Egypt | Staff | `Nodejs` `Expressjs` `Nestjs` | 2d | <a href="https://go.landed.jobs/gzYAEM" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Yassir](https://yassir.com)** | Senior QA Automation Engineer | Cairo, Egypt | Senior | `Automation` `Api Testing` `Postman` | 2d | <a href="https://go.landed.jobs/ZK78YS" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Yassir](https://yassir.com)** | Senior Mobile IOS Engineer - Financial Services | Cairo, Egypt | Senior | `Ios` `Swift` `Swiftui` | 2d | <a href="https://go.landed.jobs/NnQLkM" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Databricks](https://databricks.com)** | AI Solutions Architect (Pre-sales) - Strategic Accounts | Amsterdam, Netherlands | Senior | `GenAI` `Data Engineering` `Data Warehousing` | 4d | <a href="https://go.landed.jobs/ZSkKhG" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Databricks](https://databricks.com)** | Pre-sales Solutions Architect - Healthcare | Amsterdam, Netherlands | Senior | `Databricks` `Data Intelligence Platform` `GenAI` | 4d | <a href="https://go.landed.jobs/vdv5ru" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Databricks](https://databricks.com)** | Pre-sales Solutions Architect - Energy | Amsterdam, Netherlands | Senior | `Solution Architecture` `Pre Sales` `Data Engineering` | 4d | <a href="https://go.landed.jobs/evYCfA" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Housecall Pro](https://housecallpro.com)** | Staff Devops Engineer II (DBOps) - Poland | 🌐 Remote | Staff | `Python` `Golang` `Terraform` | 5d | <a href="https://go.landed.jobs/uqsRqC" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Housecall Pro](https://housecallpro.com)** | Senior Software Engineer - Poland | 🌐 Remote | Senior | `Python` `Kubernetes` `React` | 5d | <a href="https://go.landed.jobs/xQxhtU" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Housecall Pro](https://housecallpro.com)** | Senior Staff Engineer - Poland | 🌐 Remote | Staff | `Ruby On Rails` `Python` `Java` | 5d | <a href="https://go.landed.jobs/nKn4KV" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Squad](https://squadapp.io)** | С & C++ Embedded Engineer | 🌐 Remote | Senior | `C++` `C` `Embedded Systems` | 5d | <a href="https://go.landed.jobs/RCnkbz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Squad](https://squadapp.io)** | Embedded Connectivity Engineer | 🌐 Remote | Senior | `C++` `C` `Rtos` | 5d | <a href="https://go.landed.jobs/7FDPer" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Correlation One](https://correlation-one.com)** | Lead Instructor: Software Development | 🌐 Remote | Senior | `Python` `Javascript` `Sql` | 7d | <a href="https://go.landed.jobs/YZdTKk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Correlation One](https://correlation-one.com)** | Lead Instructor: GenAI | 🌐 Remote | Senior | `Generative Ai` `Prompt Engineering` `Chatgpt` | 7d | <a href="https://go.landed.jobs/PCppMA" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Correlation One](https://correlation-one.com)** | Lead Instructor: Machine Learning Data Associate | 🌐 Remote | Senior | `Machine Learning` `Generative Ai` `Llm` | 7d | <a href="https://go.landed.jobs/7TZs8c" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Edison Scientific](https://edisonscientific.com)** | DMPK Consultant | 🌐 Remote | Senior | `DMPK` `PK Modeling` `PBPK` | 7d | <a href="https://go.landed.jobs/cPuCYB" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Array](https://array.com)** | Senior Go Software Engineer | 🌐 Remote | Senior | `Go` `Node.Js` `Rest` | 7d | <a href="https://go.landed.jobs/ftzTPb" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Array](https://array.com)** | Senior Svelte Software Engineer | 🌐 Remote | Senior | `Svelte` `Typescript` `Html` | 7d | <a href="https://go.landed.jobs/Kpc7nL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Array](https://array.com)** | Senior Data Analyst | 🌐 Remote | Senior | `Sql` `Python` `Json` | 7d | <a href="https://go.landed.jobs/t9h8RA" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[People.ai](https://people.ai)** | Senior Software Engineer — Data Modeling (Europe) | 🌐 Remote | Senior | `Python` `Scala` `Distributed Systems` | 7d | <a href="https://go.landed.jobs/rVmwFC" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Clutch](https://clutch.io)** | Senior MLOps Engineer | 🌐 Remote | Senior | `Python` `Typescript` `Aws` | 7d | <a href="https://go.landed.jobs/aBpVHQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Squad](https://squadapp.io)** | C++ Video Streaming Engineer | 🌐 Remote | Senior | `C++17` `Embedded Systems` `Rtos` | 9d | <a href="https://go.landed.jobs/MAdUQu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Lendable](https://lendable.co.uk)** | Senior React Engineer | Remote | Senior | `React` `Typescript` `Nextjs` | 9d | <a href="https://go.landed.jobs/xL3CTH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Arista Networks](https://arista.com)** | Software Engineer - Platform Team - Greece | Athens, gr | Senior | `Linux` `C++` `Python` | 12d | <a href="https://go.landed.jobs/xM9n34" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Celonis](https://celonis.com)** | Manager, Services Consulting - (12 month Fixed Term Contract) | Munich, Germany | Senior | `Ai` `Saas` `Project Management` | 13d | <a href="https://go.landed.jobs/pWPzc2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Pointclickcare](https://pointclickcare.com)** | Senior Software Engineer (12-month contract) | Mississauga | Senior | `Python` `Java` `Microservices` | 13d | <a href="https://go.landed.jobs/SKqMqU" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[PlayStation](https://playstation.com)** | Senior Full Stack Software Engineer (Contract Role) | United States, San Diego, CA | Senior | `Python` `Java` `Go` | 14d | <a href="https://go.landed.jobs/AGsGTt" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Filevine](https://filevine.com)** | Senior ML Ops Engineer | 🌐 Remote | Senior | `Llm Observability` `Llm Evaluations` `Llm Cost Optimization` | 14d | <a href="https://go.landed.jobs/wqsrTg" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Filevine](https://filevine.com)** | Senior ML Ops Engineer | 🌐 Remote | Senior | `Llm Observability` `Llm Evaluations` `Llm Cost Optimization` | 14d | <a href="https://go.landed.jobs/rZxU92" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Homebase](https://gethomebase.com)** | Senior Marketing Web Developer (Contract, Hybrid) | 🌐 Remote | Senior | `Webflow` `Html` `Css` | 15d | <a href="https://go.landed.jobs/XtK9BS" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Arista Networks](https://arista.com)** | Senior C++ Software Engineer - Remote - Greece, Spain, Hungary, Romania or Poland | 🌐 Remote | Senior | `C++` `Distributed Systems` `Networking` | 16d | <a href="https://go.landed.jobs/ENEGbM" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Squad](https://squadapp.io)** | Lead Applied Scientist | 🌐 Remote | Senior | `Computer Vision` `Deep Learning` `Machine Learning` | 19d | <a href="https://go.landed.jobs/9NX8d8" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Scentbird](https://scentbird.com)** | Principal Platform Architect | 🌐 Remote | Principal | `Java` `Aws` `Kubernetes` | 19d | <a href="https://go.landed.jobs/hY77ha" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Prolific](https://prolific.com)** | Lead Applied Scientist | 🌐 Remote | Senior | `Python` `Llm` `Agents` | 19d | <a href="https://go.landed.jobs/b8vhna" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Verve](https://verve.com)** | Senior software Engineer (contract) | Spain - Remote | Senior | `Python` `Scala` `Java` | 20d | <a href="https://go.landed.jobs/aX7AU4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[KICKMAKER](https://kickmaker.fr)** | Freelance - Ingénieur Logiciel Embarqué (F/H) | Nantes | Senior | `C` `C++` `Embedded Linux` | 20d | <a href="https://go.landed.jobs/KZV672" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Clutch](https://clutch.io)** | Senior Software Engineer - Lending | 🌐 Remote | Senior | `Python` `Kubernetes` `React` | 22d | <a href="https://go.landed.jobs/VF5wWW" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Mozilla](https://mozilla.org)** | Senior Software Engineer (Contract) | 🌐 Remote | Senior | `C++` `Rust` `Javascript` | 23d | <a href="https://go.landed.jobs/RfczhU" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Verve](https://verve.com)** | Senior Software Engineer (contract) | Brazil - Remote | Senior | `Ruby On Rails` `Javascript` `React` | 23d | <a href="https://go.landed.jobs/dmutMb" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[PlayStation](https://playstation.com)** | Senior Software Development Engineer in Test (Contractor 12 months) | Ireland, Dublin | Senior | `Python` `Selenium` `Appium` | 25d | <a href="https://go.landed.jobs/nQCTf3" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Octopus Energy France](https://octopusenergy.fr)** | Solutions Architect - 6 month contract | London (GB) | Senior | `Solutions Architecture` `Systems Integration` `Finance Systems` | 29d | <a href="https://go.landed.jobs/fXMwbh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Vibe](https://vibe.codes)** | Fullstack Engineer - AdManager (Freelance) | Paris | Senior | `Nextjs` `React` `Typescript` | 30d | <a href="https://go.landed.jobs/Y4mgG8" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Greenlight](https://greenlight.com)** | Technical Program Manager (Temporary) | Atlanta (Remote Friendly) | Senior | `Technical Program Management` `Fintech` `Consumer Fintech` | 34d | <a href="https://go.landed.jobs/mDEHMy" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Nucleus Teq](https://nucleusteq.com)** | Python Developer (In-person at Phoenix, AZ) | Phoenix, AZ | Senior | `Python` `Systems Design` `Data Modeling` | 35d | <a href="https://go.landed.jobs/EYCL2K" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Gojob](https://gojob.com)** | Senior / Staff Software Engineer H/F | Aix-en-Provence | Senior | `NestJS` `Node.Js` `TypeScript` | 36d | <a href="https://go.landed.jobs/k5rbaM" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[RadixArk](https://radixark.ai)** | Member of Technical Staff — TPU Systems (JAX / XLA / PALLAS) | Palo Alto, CA | Staff | `Python` `Jax` `Xla` | 39d | <a href="https://go.landed.jobs/LQvg4x" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[RadixArk](https://radixark.ai)** | Technical Program Manager | Palo Alto, CA | Senior | `Python` `C++` `Cuda` | 39d | <a href="https://go.landed.jobs/dsxkV3" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Clutch](https://clutch.io)** | Senior Software Engineer | 🌐 Remote | Senior | `Typescript` `Node.Js` `Nestjs` | 41d | <a href="https://go.landed.jobs/TCLztd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Airbnb](https://airbnb.com)** | (Contract) Senior Data Scientist, Platform Inference - MarTech DS Measurement | 🌐 Remote | Senior | `Marketing Mix Modeling` `MMM` `Causal Inference` | 41d | <a href="https://go.landed.jobs/ekNvBL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Clutch](https://clutch.io)** | Director of Platform Engineering | 🌐 Remote | Exec | `Aws` `Terraform` `Terragrunt` | 47d | <a href="https://go.landed.jobs/NmwTKB" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Mable](https://trymable.com)** | Senior Analyst, Data & Insights | Sydney | Senior | `Data Analysis` `Data Visualization` `Tableau` | 47d | <a href="https://go.landed.jobs/EzESXk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Wayve](https://wayve.ai)** | Software Integration Engineer (6 months Contract) | Detroit | Senior | `C++` `Python` `Bash` | 48d | <a href="https://go.landed.jobs/dywYVt" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Lendable](https://lendable.co.uk)** | Senior AI Engineer (Contract) | London | Senior | `Python` `Typescript` `Kubernetes` | 48d | <a href="https://go.landed.jobs/LftMr5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Gojob](https://gojob.com)** | AI Senior Solution Consultant / CSM H/F | Paris | Senior | `SaaS` `Consulting` `Project Management` | 49d | <a href="https://go.landed.jobs/5MsrSm" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Verve](https://verve.com)** | Senior Platform Engineer (Remote / Contract) | 🌐 Remote | Senior | `Kubernetes` `Gke` `Terraform` | 54d | <a href="https://go.landed.jobs/Sr4X4h" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Nucleus Teq](https://nucleusteq.com)** | Data Engineer + Gen AI (In-Person @ NYC) | NYC, NY | Senior | `Pyspark` `Airflow` `Glue` | 54d | <a href="https://go.landed.jobs/3Cm6sn" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Semgrep](https://semgrep.dev)** | Senior Software Engineer, Growth | 🌐 Remote | Senior | `Python` `Typescript` `Postgres` | 54d | <a href="https://go.landed.jobs/5bqdv5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Appnovation](https://appnovation.com)** | Associate QA - Contractor | Toronto | Senior | `Ios` `Android` `Mobile Testing` | 57d | <a href="https://go.landed.jobs/VUBHEq" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[IDT](https://idt.net)** | Senior Golang  Software Engineer | 🌐 Remote | Senior | `Golang` `Distributed Systems` `Api Design` | 58d | <a href="https://go.landed.jobs/hk4FkN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Playbook](https://playbookapp.io)** | Senior Fullstack Engineer (ReactJS / Node.js) | 🌐 Remote | Senior | `Reactjs` `Nodejs` `Typescript` | 64d | <a href="https://go.landed.jobs/ZW43eQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Toyota Connected](https://toyotaconnected.eu)** | Solution Architect (Contract) | London, GB | Senior | `Solution Architecture` `Enterprise Architecture` `TOGAF` | 72d | <a href="https://go.landed.jobs/FRGDkd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+
+[⬆ back to top](#top)
+
+<a name="mid"></a>
+## ⚙️ Mid-level · 54
+
+| Company | Role | Location | Level | Top skills | Posted | Apply |
+|---|---|---|---|---|---|---|
+| **[Yassir](https://yassir.com)** | Data Analyst ( Financial Services ) | Algiers, Algeria | Mid | `Sql` `Data Analysis` `A/B Testing` | 1d | <a href="https://go.landed.jobs/ySFKd4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Instacart](https://instacart.com)** | On the Ground Specialist (Contractor) | Dover, New Jersey | Mid | `Retail` `Operations` `Customer Support` | 5d | <a href="https://go.landed.jobs/8xT8pc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [job - 30084] Senior/Mid Level Data Developer, Brazil | Brazil | Mid | `Python` `Sql` `Data Modeling` | 5d | <a href="https://go.landed.jobs/Z9wUVY" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Prolific Machines](https://prolific-machines.com)** | Research Associate II, Analytical Chemistry (Contract) | Emeryville, California | Mid | `HPLC` `UPLC` `Protein Characterization` | 5d | <a href="https://go.landed.jobs/9YYEWq" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Squad](https://squadapp.io)** | C++ Embedded Engineer | 🌐 Remote | Mid | `C++` `Rtos` `Arm` | 5d | <a href="https://go.landed.jobs/6fPvUb" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[ArianeGroup](https://ariane.group)** | CDD - Ingénieur(e) analyse de mission (F/H) | Les Mureaux | Mid | `Flight Physics` `Orbital Mechanics` `Trajectory Optimization` | 5d | <a href="https://go.landed.jobs/9aYf9k" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[VO2 GROUP](https://vo2-group.com)** | [VO2 Canada] - Développeuse.eur  Front-End- Missions Ponctuelles | 🌐 Remote | Unknown | `Frontend` `Javascript` `Html` | 6d | <a href="https://go.landed.jobs/Xz4gyB" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Instacart](https://instacart.com)** | Implementation Specialist - Caper (Contractor) | Allentown, PA; Harrisburg, PA; Scranton/Wilkes-Barre, PA; Selinsgrove, PA | Mid | `Retail` `Customer Service` `Troubleshooting` | 7d | <a href="https://go.landed.jobs/DxsXct" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Correlation One](https://correlation-one.com)** | AI Coach (Gemini, Copilot, ChatGPT, Claude) | 🌐 Remote | Mid | `Copilot` `Gemini` `Chatgpt` | 7d | <a href="https://go.landed.jobs/5GDWDE" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Correlation One](https://correlation-one.com)** | AI Coach (Gemini, Copilot, ChatGPT, Claude) | 🌐 Remote | Mid | `Copilot` `Gemini` `Chatgpt` | 7d | <a href="https://go.landed.jobs/NhnRwk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Squad](https://squadapp.io)** | Data Analyst | 🌐 Remote | Mid | `Sql` `Data Warehousing` `Etl` | 8d | <a href="https://go.landed.jobs/zZLrws" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[PlayStation](https://playstation.com)** | Software Development Engineer in Test II (SDET Contractor) | United States, San Mateo, CA | Mid | `Python` `Pytest` `Jenkins` | 8d | <a href="https://go.landed.jobs/byw2VP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[PlayStation](https://playstation.com)** | Software Development Engineer in Test II (SDET Contractor) | United States, Los Angeles, CA | Mid | `Python` `Pytest` `Jenkins` | 8d | <a href="https://go.landed.jobs/Fsgvzz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Lendable](https://lendable.co.uk)** | React/React Native Engineer | London | Unknown | `Typescript` `React` `React Native` | 9d | <a href="https://go.landed.jobs/gP8XEF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Crosslake Technologies](https://crosslaketech.com)** | Full Stack Software Engineer | 🌐 Remote | Mid | `Python` `Javascript` `React` | 12d | <a href="https://go.landed.jobs/wFcuGQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Squad](https://squadapp.io)** | Applied Scientist (Computer Vision) | 🌐 Remote | Mid | `Computer Vision` `Pytorch` `Python` | 12d | <a href="https://go.landed.jobs/DQGbAE" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Arista Networks](https://arista.com)** | Software Engineer - Platform Team  - C++ on Linux | Budapest, hu | Mid | `C++` `Linux` `Algorithms` | 12d | <a href="https://go.landed.jobs/98uQWm" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Clay](https://clay3d.io)** | Technical Delivery Manager | 🌐 Remote | Mid | `Client Facing` `Technical Consulting` `Web Architecture` | 13d | <a href="https://go.landed.jobs/v3NGbn" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Cohere](https://cohere.io)** | Data Annotation Specialist, Data Science | 🌐 Remote | Mid | `Python` `Pandas` `Numpy` | 14d | <a href="https://go.landed.jobs/r6AmCx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Cohere](https://cohere.io)** | Data Annotation Specialist, Software Engineering | 🌐 Remote | Mid | `Python` `Java` `Javascript` | 14d | <a href="https://go.landed.jobs/B9PUxz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Netomi](https://netomi.com)** | Prompt Engineer (Contract) | Gurugram | Mid | `Prompt Engineering` `Llm` `Nlp` | 14d | <a href="https://go.landed.jobs/dBWc4x" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Intuitive](https://intuitive.com)** | Contingent Research Data Analyst, HEOR | 🌐 Remote | Mid | `R` `Python` `Sql` | 16d | <a href="https://go.landed.jobs/8amQYp" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [29844] - AI Data Engineer - Snowflake Cortex - Contractor | 🌐 Remote | Mid | `Snowflake` `Snowflake Cortex` `Sql` | 16d | <a href="https://go.landed.jobs/vTqqt5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [29868] - Data Analytics Engineer - DBT Modelling (Contract) | London | Mid | `Dbt` `Sql` `Snowflake` | 16d | <a href="https://go.landed.jobs/UdWCLt" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[adaption](https://adaptionlabs.ai)** | Modelling Resident (8-Month Contract) | 🌐 Remote | Mid | `Python` `Pytorch` `Tensorflow` | 19d | <a href="https://go.landed.jobs/MRb7V9" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Spekit](https://spekit.com)** | Sales Solutions Engineer | 🌐 Remote | Mid | `Ai` `Python` `Claude` | 20d | <a href="https://go.landed.jobs/bvPQph" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Mashgin](https://mashgin.com)** | AI Data Labeler | Remote | Mid | `Computer Vision` `Data Annotation` `Bounding Boxes` | 23d | <a href="https://go.landed.jobs/wMhB2A" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Squad](https://squadapp.io)** | Applied Scientist (LLM) | 🌐 Remote | Mid | `Llm` `Python` `Pytorch` | 28d | <a href="https://go.landed.jobs/RMgmFW" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Gojob](https://gojob.com)** | Software Engineer Spécialisé IA H/F - Paris | Paris | Mid | `Typescript` `Python` `Agent Orchestration` | 28d | <a href="https://go.landed.jobs/vXUP6B" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Limbic](https://limbic.ai)** | Clinical Contractor | 🌐 Remote | Mid | `Cbt` `Llm` `Prompt Engineering` | 29d | <a href="https://go.landed.jobs/GwWXeQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Achievers](https://achievers.com)** | Intermediate Software Engineer | Canada | Mid | `Python` `Go` `Php` | 29d | <a href="https://go.landed.jobs/2deNhL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Equativ](https://equativ.com)** | AI Engineer [Feelance] | 🌐 Remote | Mid | `Python` `Llm` `Agents` | 32d | <a href="https://go.landed.jobs/gGmGB4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Squad](https://squadapp.io)** | Android Software Engineer | 🌐 Remote | Mid | `Android` `Kotlin` `Java` | 34d | <a href="https://go.landed.jobs/y25HPF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Handshake](https://joinhandshake.com)** | AI Red Teamer, LLM Generalist | Seattle, WA | Mid | `Llm` `Python` `Adversarial Ml` | 35d | <a href="https://go.landed.jobs/ZaHn95" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[PlayStation](https://playstation.com)** | Software Development Engineer in Test II - Contractor | United States, San Mateo, CA | Mid | `Python` `Javascript` `Java` | 35d | <a href="https://go.landed.jobs/ehE3kW" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Deputy](https://deputy.com)** | Software Engineer 3: Backend - 12 Month Fixed Term Contract | 🌐 Remote | Mid | `Backend Development` `Frontend Development` `Javascript` | 37d | <a href="https://go.landed.jobs/VWsczB" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Sophos](https://sophos.com)** | Security Solutions Consultant (via 3rd party) | Portugal | Unknown | `Cybersecurity` `Networking` `Firewalls` | 41d | <a href="https://go.landed.jobs/t2r2P8" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Saronic Technologies](https://saronic.com)** | Data Annotation Specialist | Austin, TX | Mid | `Labelbox` `Cvat` `Bounding Boxes` | 42d | <a href="https://go.landed.jobs/zVVkNs" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[ClassDojo](https://classdojo.com)** | School Partnerships Specialist (Contractor — Field-Based) | Remote | Mid | `Education` `Sales` `Community Engagement` | 42d | <a href="https://go.landed.jobs/d2zXTZ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[ABBYY](https://abbyy.com)** | OCR/IDP Data Labelling & Validation Specialist - Contract - | Bangalore, India (Hybrid) | Mid | `Document Annotation` `Data Labeling` `OCR` | 42d | <a href="https://go.landed.jobs/8eZ6eX" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Dyna Robotics](https://dynarobotics.ai)** | Data Annotation Specialist | Redwood City, CA | Mid | `Data Annotation` `Computer Vision` `Robotics` | 47d | <a href="https://go.landed.jobs/6vmzfc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Kandou](https://kandou.com)** | Firmware Contractors, 6 months contract CH | Saint-Sulpice, Switzerland | Mid | `C` `C++` `Embedded` | 49d | <a href="https://go.landed.jobs/EKQsFx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[PlayStation](https://playstation.com)** | Software Development Engineer in Test Contractor (SDET Contractor) | United States, San Mateo, CA | Mid | `Python` `C` `C++` | 50d | <a href="https://go.landed.jobs/sqdYsT" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[DigitalGenius](https://digitalgenius.com)** | Solutions Engineer | Croatia | Unknown | `Python` `Llm` `Agents` | 54d | <a href="https://go.landed.jobs/rzw6mu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Owkin](https://owkin.com)** | Lab Technician - CDD | Paris | Mid | `Cell Culture` `Flow Cytometry` `Biobanking` | 56d | <a href="https://go.landed.jobs/T7nUVk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Cohere](https://cohere.io)** | Data Annotation Specialist, Arabic Language Najdi/Hijazi Dialect | 🌐 Remote | — | `Arabic` `Data Annotation` `Llm` | 57d | <a href="https://go.landed.jobs/462XuZ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Cohere](https://cohere.io)** | Data Annotation Specialist, Japanese | 🌐 Remote | — | `Japanese` `English` `Json` | 57d | <a href="https://go.landed.jobs/qLmPhH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[PlayStation](https://playstation.com)** | Hardware Fleet Operations Specialist | United States, Aliso Viejo, CA | Mid | `Linux` `Bash` `Python` | 61d | <a href="https://go.landed.jobs/3YPB85" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Equativ](https://equativ.com)** | Back-End Engineer [Freelance] | Paris | Mid | `C#` `Aerospike` `Kafka` | 62d | <a href="https://go.landed.jobs/8AWrrf" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Filevine](https://filevine.com)** | Software Engineer in Test - LOIS for Meetings | 🌐 Remote | Mid | `Typescript` `Python` `React Native` | 62d | <a href="https://go.landed.jobs/b7qU8k" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Known](https://knowndating.com)** | QA Engineer, Mobile | San Francisco, CA | Mid | `React Native` `Mobile Testing` `Automation Testing` | 63d | <a href="https://go.landed.jobs/Bhh8wA" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Clutch](https://clutch.io)** | Implementation Engineer - Brazil | 🌐 Remote | Mid | `Python` `Javascript` `Typescript` | 63d | <a href="https://go.landed.jobs/dQWgbY" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Cohere](https://cohere.io)** | Data Annotation Specialist, Engineering (civil, mechanical, electrical, chemical) | 🌐 Remote | Mid | `Cad` `Product Lifecycle Management` | 64d | <a href="https://go.landed.jobs/AZk6Tp" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Lightcast](https://lightcast.io)** | Data Analyst (Polish) | 🌐 Remote | Unknown | `Nlp` `Data Analysis` `Sql` | 89d | <a href="https://go.landed.jobs/eRZYWe" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+
+[⬆ back to top](#top)
+
+<a name="junior"></a>
+## 🌱 Junior & New Grad · 6
+
+| Company | Role | Location | Level | Top skills | Posted | Apply |
+|---|---|---|---|---|---|---|
+| **[Cohere](https://cohere.io)** | Data Annotation Specialist, Safety | 🌐 Remote | Junior | `Content Moderation` `Trust And Safety` `Llm Evaluation` | 5d | <a href="https://go.landed.jobs/VCBQtF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Correlation One](https://correlation-one.com)** | Teaching Assistant: Machine Learning Data Associate | 🌐 Remote | Junior | `Aws` `Generative Ai` `Data Annotation` | 7d | <a href="https://go.landed.jobs/pyr4vP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Mopub](https://mopub.com)** | QA Engineer (12-months Contract) | Singapore | Junior | `Python` `Java` `Javascript` | 15d | <a href="https://go.landed.jobs/W5uTRk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[PlayStation](https://playstation.com)** | Service Reliability Engineer I (Contract) | United States, Aliso Viejo, CA | Junior | `Linux` `Python` `Bash` | 41d | <a href="https://go.landed.jobs/SxC8vY" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[ClassDojo](https://classdojo.com)** | Technical Implementation Specialist (Contract, Remote) | 🌐 Remote | Junior | `Sis` `Api` `Sftp` | 43d | <a href="https://go.landed.jobs/y4dp48" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[WINAMAX](https://winamax.fr)** | Développeur Back-End (Node.JS) - Core Services (H/F) | Paris | Junior | `Node.Js` `Typescript` `Javascript` | 55d | <a href="https://go.landed.jobs/fxZVAk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+
+[⬆ back to top](#top)
+
+<a name="intern"></a>
+## 🎓 Internships · 5
+
+| Company | Role | Location | Level | Top skills | Posted | Apply |
+|---|---|---|---|---|---|---|
+| **[gogobot](https://skyscanner.com)** | Software Engineering Apprenticeship Programme | Glasgow | Intern | `Software Development` `Agile` | 15d | <a href="https://go.landed.jobs/Tn5r4a" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Zoox](https://zoox.com)** | Part-Time Student Worker Automation & Behavioral Science Engineer | Foster City, CA | Intern | `Python` `Rag` `Llm` | 27d | <a href="https://go.landed.jobs/CmK4qe" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Zoox](https://zoox.com)** | Part-Time Student Worker AI & Automation: Supply Chain, Quality & Reliability | Foster City, CA | Intern | `Python` `Llm` `Agents` | 41d | <a href="https://go.landed.jobs/p63ZTQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[PlayStation](https://playstation.com)** | Graduate Engineer | Ireland, Dublin | Intern | `C++` `C#` `Python` | 82d | <a href="https://go.landed.jobs/PTNthw" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Bear Robotics](https://bearrobotics.ai)** | Software Engineer Intern | Seoul, KR | Intern | `Python` `Git` `Linux` | 85d | <a href="https://go.landed.jobs/PCmyqr" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+
+[⬆ back to top](#top)
 
 ---
 
 ## How to actually land one
 
-Applying cold is the slow path — these roles usually go to people who get **referred**. With Landed you can scout every opening, find a connection at the company and auto-draft a referral message, prep with company-specific mock interviews, and track every application.
+These roles usually go to people who get **referred**. With Landed you can scout every opening, find a connection at the company and auto-draft a referral message, prep with company-specific mock interviews, and track every application.
 
 **[Get started free → https://landed.jobs](https://landed.jobs)**
 
----
-
 ## Related
 
-- 🧭 [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs)
+- 🧭 [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs) — the umbrella for the whole family
 - 🧪 [projects-to-land-an-ai-job](https://github.com/landedjobs/projects-to-land-an-ai-job)
-- 🗺️ Roadmaps & interview prep — see the [Landed org](https://github.com/landedjobs)
 
 ## Contributing
 
 Spotted a role we missed? Open a PR or issue.
 
----
-
-<sub>Maintained by [Landed](https://landed.jobs). Data refreshed automatically. Not affiliated with the listed companies.</sub>
+<sub>125 roles · 59 remote · updated 2026-07-01 · maintained by [Landed](https://landed.jobs). Not affiliated with the listed companies.</sub>
