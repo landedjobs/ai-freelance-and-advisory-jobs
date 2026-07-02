@@ -379,6 +379,35 @@
     "posted": "2026-06-26T11:27:25.686Z"
   },
   {
+    "dedupeKey": "greenhouse:7535353",
+    "company": "Squad",
+    "companyDomain": "squadapp.io",
+    "role": "C++ Embedded Engineer",
+    "applyUrl": "https://squad.tech/careers/?gh_jid=7535353",
+    "location": "Kyiv; Lviv; Remote",
+    "remote": "remote",
+    "level": "mid",
+    "skills": [
+      "c++",
+      "rtos",
+      "arm",
+      "risc-v",
+      "git",
+      "cmake",
+      "ci_cd",
+      "multithreading",
+      "i2c",
+      "spi",
+      "uart",
+      "wifi",
+      "device_drivers",
+      "python",
+      "embedded_linux",
+      "security_protocols"
+    ],
+    "posted": "2026-06-26T08:06:17.000Z"
+  },
+  {
     "dedupeKey": "greenhouse:8015773",
     "company": "Squad",
     "companyDomain": "squadapp.io",
@@ -445,35 +474,6 @@
       "logic analyzer",
       "cross-compilation",
       "python"
-    ],
-    "posted": "2026-06-26T08:06:17.000Z"
-  },
-  {
-    "dedupeKey": "greenhouse:7535353",
-    "company": "Squad",
-    "companyDomain": "squadapp.io",
-    "role": "C++ Embedded Engineer",
-    "applyUrl": "https://squad.tech/careers/?gh_jid=7535353",
-    "location": "Kyiv; Lviv; Remote",
-    "remote": "remote",
-    "level": "mid",
-    "skills": [
-      "c++",
-      "rtos",
-      "arm",
-      "risc-v",
-      "git",
-      "cmake",
-      "ci_cd",
-      "multithreading",
-      "i2c",
-      "spi",
-      "uart",
-      "wifi",
-      "device_drivers",
-      "python",
-      "embedded_linux",
-      "security_protocols"
     ],
     "posted": "2026-06-26T08:06:17.000Z"
   },
@@ -563,6 +563,66 @@
     "posted": "2026-06-24T17:55:40.000Z"
   },
   {
+    "dedupeKey": "greenhouse:5427890004",
+    "company": "Correlation One",
+    "companyDomain": "correlation-one.com",
+    "role": "AI Coach (Gemini, Copilot, ChatGPT, Claude)",
+    "applyUrl": "https://job-boards.greenhouse.io/correlationone/jobs/5427890004",
+    "location": "Remote: NAMER (US, Canada)",
+    "remote": "remote",
+    "level": "mid",
+    "skills": [
+      "copilot",
+      "gemini",
+      "chatgpt",
+      "claude",
+      "ai coaching",
+      "training",
+      "consulting"
+    ],
+    "posted": "2026-06-24T17:55:38.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:5500295004",
+    "company": "Correlation One",
+    "companyDomain": "correlation-one.com",
+    "role": "AI Coach (Gemini, Copilot, ChatGPT, Claude)",
+    "applyUrl": "https://job-boards.greenhouse.io/correlationone/jobs/5500295004",
+    "location": "Remote: EMEA",
+    "remote": "remote",
+    "level": "mid",
+    "skills": [
+      "copilot",
+      "gemini",
+      "chatgpt",
+      "claude",
+      "ai",
+      "machine learning",
+      "training",
+      "coaching",
+      "consulting"
+    ],
+    "posted": "2026-06-24T17:55:38.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:5459013004",
+    "company": "Correlation One",
+    "companyDomain": "correlation-one.com",
+    "role": "Lead Instructor: GenAI ",
+    "applyUrl": "https://job-boards.greenhouse.io/correlationone/jobs/5459013004",
+    "location": "Remote",
+    "remote": "remote",
+    "level": "senior",
+    "skills": [
+      "generative_ai",
+      "prompt_engineering",
+      "chatgpt",
+      "copilot",
+      "ai_assistants"
+    ],
+    "posted": "2026-06-24T17:55:38.000Z"
+  },
+  {
     "dedupeKey": "greenhouse:5799850004",
     "company": "Correlation One",
     "companyDomain": "correlation-one.com",
@@ -601,66 +661,6 @@
       "zoom",
       "excel",
       "google sheets"
-    ],
-    "posted": "2026-06-24T17:55:38.000Z"
-  },
-  {
-    "dedupeKey": "greenhouse:5459013004",
-    "company": "Correlation One",
-    "companyDomain": "correlation-one.com",
-    "role": "Lead Instructor: GenAI ",
-    "applyUrl": "https://job-boards.greenhouse.io/correlationone/jobs/5459013004",
-    "location": "Remote",
-    "remote": "remote",
-    "level": "senior",
-    "skills": [
-      "generative_ai",
-      "prompt_engineering",
-      "chatgpt",
-      "copilot",
-      "ai_assistants"
-    ],
-    "posted": "2026-06-24T17:55:38.000Z"
-  },
-  {
-    "dedupeKey": "greenhouse:5500295004",
-    "company": "Correlation One",
-    "companyDomain": "correlation-one.com",
-    "role": "AI Coach (Gemini, Copilot, ChatGPT, Claude)",
-    "applyUrl": "https://job-boards.greenhouse.io/correlationone/jobs/5500295004",
-    "location": "Remote: EMEA",
-    "remote": "remote",
-    "level": "mid",
-    "skills": [
-      "copilot",
-      "gemini",
-      "chatgpt",
-      "claude",
-      "ai",
-      "machine learning",
-      "training",
-      "coaching",
-      "consulting"
-    ],
-    "posted": "2026-06-24T17:55:38.000Z"
-  },
-  {
-    "dedupeKey": "greenhouse:5427890004",
-    "company": "Correlation One",
-    "companyDomain": "correlation-one.com",
-    "role": "AI Coach (Gemini, Copilot, ChatGPT, Claude)",
-    "applyUrl": "https://job-boards.greenhouse.io/correlationone/jobs/5427890004",
-    "location": "Remote: NAMER (US, Canada)",
-    "remote": "remote",
-    "level": "mid",
-    "skills": [
-      "copilot",
-      "gemini",
-      "chatgpt",
-      "claude",
-      "ai coaching",
-      "training",
-      "consulting"
     ],
     "posted": "2026-06-24T17:55:38.000Z"
   },
